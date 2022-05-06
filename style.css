@@ -1,6 +1,14 @@
 body {
   background-color:#DAF7A6;
 }
+.mainbox {
+  background: none;
+  border: dotted 4px;
+  width: 500px;
+  height: 100%;
+  position: absolute;
+}
+  
 h1 {
   background-color:#ffcd05;
   color:#fff;
