@@ -1,6 +1,4 @@
-body {
-  background-color:#DAF7A6;
-}
+
 .mainbox {
   background: none;
   border: dotted 4px;
@@ -24,16 +22,6 @@ h1 {
   width:100%;
 }
 p {
-  color:#FFC300;
-  font-weight: bold;
-}
-a {
   color:#000;
-}
-.border {
-  border-style: dotted;
-}
-.border2 {
-  border-style: solid;
-  border-color:#FF5733;
+  font-weight: italics;
 }
