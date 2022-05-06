@@ -8,7 +8,11 @@ body {
   height: 100%;
   position: absolute;
 }
-  
+#banner1 {
+  background-image: url("https://blog.lootcrate.com/wp-content/uploads/2017/07/AT_GC_Header.gif");
+  width: 500px;
+  position: fixed;
+}
 h1 {
   background-color:#ffcd05;
   color:#fff;
