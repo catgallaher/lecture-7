@@ -4,8 +4,9 @@
   border: dotted 4px;
   width: 500px;
   height: 100%;
-  position: center;
-  padding: 10px;
+  position: absolute;
+  margin: auto;
+  padding: 15px;
 }
 
 h1 {
