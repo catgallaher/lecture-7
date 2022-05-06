@@ -1,4 +1,7 @@
-
+body {
+  text-color: #fff;
+  font-weight: italic;
+}
 .mainbox {
   background: none;
   border: dotted 4px;
@@ -21,8 +24,4 @@ h1 {
   font-weight: bold;
   width:100%;
   padding-top: -20px;
-}
-p {
-  color:#fff;
-  font-weight: italics;
 }
