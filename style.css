@@ -2,6 +2,7 @@
 .mainbox {
   background: none;
   border: dotted 4px;
+  border-color: #ffcd05;
   width: 500px;
   height: 100%;
   position: absolute;
