@@ -34,7 +34,7 @@ body {
 }
 .homeright {
   background: none;
-  width: auto;
+  width: 320px;
   height: auto;
   margin: auto;
   padding-right: 300px;
