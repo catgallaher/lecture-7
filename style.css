@@ -18,8 +18,9 @@ body {
   width: auto;
   height: auto;
   text-align: center;
-  padding-top: 250px;
+  padding-top: 350px;
   margin-left: 300px;
+  position: fixed;
 }
 h1 {
   color:#ea05ff;
