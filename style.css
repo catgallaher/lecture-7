@@ -18,8 +18,9 @@ body {
   width: auto;
   height: auto;
   text-align: center;
-  padding-top: 350px;
+  margin-top: 350px;
   margin-left: 300px;
+  padding: 50px;
   position: fixed;
 }
 h1 {
