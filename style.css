@@ -32,6 +32,15 @@ body {
   padding: 50px;
   position: fixed;
 }
+.homeright {
+  background: none;
+  width: auto;
+  height: auto;
+  margin: auto;
+  padding-right: 300px;
+  margin-top: 200px;
+  position: absolute;
+}
 h1 {
   color:#ea05ff;
   border: solid;
