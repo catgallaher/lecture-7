@@ -14,7 +14,7 @@ body {
 }
 .homelinks {
   background: none;
-  border-color: ##1268ED;
+  border: dashed #1268ED;
   width: auto;
   height: auto;
   text-align: center;
