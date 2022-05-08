@@ -18,7 +18,7 @@ body {
   height: auto;
   text-align: center;
   margin-top: 350px;
-  margin-left: 800px;
+  margin-left: 300px;
   padding: 50px;
   position: fixed;
 }
@@ -28,7 +28,7 @@ body {
   height: auto;
   text-align: center;
   margin-top: 350px;
-  margin-left: 850px;
+  margin-left: 250px;
   padding: 50px;
   position: fixed;
 }
@@ -38,7 +38,7 @@ body {
   height: auto;
   margin: auto;
   margin-top: 200px;
-  margin-right: auto;
+  right: 100px;
   position: absolute;
 }
 h1 {
