@@ -131,32 +131,32 @@ h3 {
   position: absolute;
 }
 .twolinksh {
-  background-color: #a99ad6;
+  background-color: #0310fc;
   width: auto;
   height: auto;
   text-align: center;
   margin-top: 200px;
-  margin-left: 200px;
+  margin-left: 0px;
   padding: 30px;
   position: fixed;
 }
 .twolinks1 {
-  background-color: #dfab20;
+  background-color: #009c24;
   width: auto;
   height: auto;
   text-align: center;
   margin-top: 300px;
-  margin-left: 200px;
+  margin-left: 0px;
   padding: 30px;
   position: fixed;
 }
 .twolinks2 {
-  background-color: #39c64c;
+  background-color: #f68909;
   width: auto;
   height: auto;
   text-align: center;
   margin-top: 400px;
-  margin-left: 200px;
+  margin-left: 0px;
   padding: 30px;
   position: fixed;
 }
