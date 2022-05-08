@@ -64,6 +64,7 @@ h1 {
   background-color: #057a89;
   border: solid 4px;
   border-color: #c41a06;
+  opacity: .5;
   width: 50%;
   height: 100%;
   margin: auto;
