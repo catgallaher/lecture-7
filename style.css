@@ -36,9 +36,8 @@ body {
   background: none;
   width: 300px;
   height: auto;
-  margin-top: 200px;
-  right: 100px;
-  position: right;
+  margin: auto;
+  padding-right: 500px;
 }
 h1 {
   color:#ea05ff;
