@@ -59,15 +59,16 @@ h1 {
   width: 100%;
   padding: 40px;
 }
-h1 {
-  color:#ea05ff;
-  border: solid;
+h3 {
+  color:#78f30c;
+  background-color:#6341be;
+  border: solid #1be4bf;
   font: georgia;
   font-size:50px;
   text-align: center;
   font-style: italic;
   font-weight: bold;
-  width: 300px;
+  width: 100%;
 }
 
 
