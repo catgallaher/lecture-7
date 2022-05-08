@@ -36,8 +36,7 @@ body {
   background: none;
   width: 300px;
   height: auto;
-  margin: auto;
-  padding-right: 900px;
+  margin-right: auto;
 }
 .homeright:hover {
   background-color: #8ee5f0;
