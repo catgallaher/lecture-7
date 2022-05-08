@@ -162,14 +162,11 @@ h3 {
 }
 .homeright2 {
   background: none;
-  width: 300px;
+  width: 320px;
   height: auto;
   margin-left: 1400px;
+  border: solid 20px;
+  border-color: #ea1596;
     position: absolute;
 }
-.homeright2:hover {
-  background-color: #8ee5f0;
-  width: 300px;
-  height: auto;
-    position: absolute;
-}
+
